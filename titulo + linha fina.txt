@@ -1,2 +1,2 @@
-O que será que os programadores tem a nos ensinar sobre relacionamento?
+O que a cultura GIT pode nos ensinar sobre relacionamentos?
 Imagine que você teve uma ideia genial no trabalho. Agora imagine que 20 colegas começam a dar pitacos na sua ideia, ou pior, eles começam a "garfar" a sua ideia e trabalhar nela como se fosse deles. Difícil de engolir? Saiba: Só no Github,  mais de 36 milhões de programadores se encontram para trabalhar exatamente assim. Como será que eles conseguem? O que podemos aprender com eles sobre relacionamento e colaboração no compartilhar de ideias?
